@@ -107,7 +107,7 @@ Creamos una etiqueta que la llamamos v1.1 y la subimos al repositorio
 
 A continuación de esa etiqueta creamos una release con el .jar
 
-A continuación hacemos el [JavaDoc](file:///home/dam/Documentos/COD/OperacionesBasicas/docs/OperacionesBasicas.html)
+A continuación hacemos el [JavaDoc](https://ayesa14.github.io/Libreria-Operaciones-Basicas/package-summary.html)
 
 
 
